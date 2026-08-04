@@ -36,11 +36,11 @@ to transport, tourism and indigenous-language preservation.
 <div align="center">
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true"
+src="https://github-readme-stats.vercel.app/api?username=pwavwef-web&show_icons=true&theme=transparent&hide_border=true"
 alt="Francis's GitHub statistics" />
 
 <img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwavwef-web&layout=compact&theme=transparent&hide_border=true"
 alt="Francis's most used languages" />
 
 </div>
@@ -56,6 +56,6 @@ identity and make complicated systems easier for ordinary people to navigate.
 
 ### Building from Ghana for the world 🌍
 
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=pwavwef-web&style=flat-square)
 
 </div>
