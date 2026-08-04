@@ -35,13 +35,17 @@ to transport, tourism and indigenous-language preservation.
 
 <div align="center">
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=pwavwef-web&show_icons=true&theme=transparent&hide_border=true"
-alt="Francis's GitHub statistics" />
+<img
+  height="170"
+  src="https://github-stats-extended.vercel.app/api?username=pwavwef-web&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true"
+  alt="Francis Pwavwe's GitHub statistics"
+/>
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=pwavwef-web&layout=compact&theme=transparent&hide_border=true"
-alt="Francis's most used languages" />
+<img
+  height="170"
+  src="https://github-stats-extended.vercel.app/api/top-langs/?username=pwavwef-web&layout=compact&theme=transparent&hide_border=true&langs_count=8"
+  alt="Francis Pwavwe's most-used languages"
+/>
 
 </div>
 
