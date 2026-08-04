@@ -1,16 +1,61 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**pwavwef-web/pwavwef-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="./assets/profile-banner.png" width="100%" alt="Francis Pwavwe profile banner" />
 
-Here are some ideas to get you started:
+# Hey, I'm Francis Pwavwe 👋🏾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Product Builder · AI Explorer · Tourism Technologist
+
+I build digital products that solve real problems — from education and recruitment
+to transport, tourism and indigenous-language preservation.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-pwavwe.com-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://pwavwe.com)
+[![Projects](https://img.shields.io/badge/Builds-build.pwavwe.com-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://build.pwavwe.com)
+[![Email](https://img.shields.io/badge/Email-francis%40pwavwe.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:francis@pwavwe.com)
+
+</div>
+
+---
+
+## 🚀 What I'm building
+
+- **Folivera** — intelligent career infrastructure and Talent Passports
+- **Indigen World** — technology for indigenous languages and cultural preservation
+- **Pollaris** — transparent digital election infrastructure
+- **AZ Learner** — academic tools designed for university students
+- **Pwavwe Build** — my product development and experimentation studio
+
+## 🧰 My toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,firebase,nodejs,git,github,figma,vscode" />
+</p>
+
+## 📊 GitHub activity
+
+<div align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true"
+alt="Francis's GitHub statistics" />
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true"
+alt="Francis's most used languages" />
+
+</div>
+
+## 🌍 What I care about
+
+Technology should not merely look impressive. It should expand access, preserve
+identity and make complicated systems easier for ordinary people to navigate.
+
+---
+
+<div align="center">
+
+### Building from Ghana for the world 🌍
+
+![Profile views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat-square)
+
+</div>
