@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/profile-banner.png" width="100%" alt="Francis Pwavwe profile banner" />
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHonJqsdlVmpQ/profile-displaybackgroundimage-shrink_350_1400/B4DZzya61fJQAY-/0/1773593676888?e=1787184000&v=beta&t=IOyrjRgkyeF0nsdAqbGx4o2SdwIwgkt8Gmggrapaou4" width="100%" alt="Francis Pwavwe profile banner" />
 
 # Hey, I'm Francis Pwavwe 👋🏾
 
