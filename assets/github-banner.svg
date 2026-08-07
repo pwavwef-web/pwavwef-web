@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="400" viewBox="0 0 1600 400" role="img" aria-labelledby="title desc">
+  <title id="title">Francis Pwavwe — Product Builder</title>
+  <desc id="desc">A dark blue minimalist digital banner for Francis Pwavwe, featuring product building, AI systems, civic and cultural technology, and a Ghana to world motif.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#08111F"/>
+      <stop offset="55%" stop-color="#0D1B2E"/>
+      <stop offset="100%" stop-color="#102A43"/>
+    </linearGradient>
+    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1320 80) rotate(140) scale(520 320)">
+      <stop stop-color="#3B82F6" stop-opacity="0.34"/>
+      <stop offset="1" stop-color="#3B82F6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1180 330) rotate(-35) scale(420 220)">
+      <stop stop-color="#D4A017" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#D4A017" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/>
+    </pattern>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="8" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="400" fill="url(#bg)"/>
+  <rect width="1600" height="400" fill="url(#grid)"/>
+  <rect width="1600" height="400" fill="url(#glowA)"/>
+  <rect width="1600" height="400" fill="url(#glowB)"/>
+
+  <g opacity="0.9">
+    <rect x="92" y="74" width="60" height="6" rx="3" fill="#3B82F6"/>
+    <rect x="158" y="74" width="26" height="6" rx="3" fill="#D4A017"/>
+  </g>
+
+  <text x="92" y="154" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="58" font-weight="800" letter-spacing="1.5">FRANCIS PWAVWE</text>
+  <text x="94" y="205" fill="#9FC5F8" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22" font-weight="650" letter-spacing="3">PRODUCT BUILDER  •  AI SYSTEMS  •  CIVIC &amp; CULTURAL TECHNOLOGY</text>
+
+  <text x="94" y="264" fill="#CBD5E1" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="19" font-weight="450">Building useful digital systems across education, careers, communities, tourism and culture.</text>
+
+  <g transform="translate(94 304)">
+    <rect width="154" height="42" rx="21" fill="#FFFFFF" fill-opacity="0.07" stroke="#FFFFFF" stroke-opacity="0.11"/>
+    <circle cx="23" cy="21" r="6" fill="#22C55E"/>
+    <text x="39" y="27" fill="#E2E8F0" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="15" font-weight="650">GHANA → WORLD</text>
+  </g>
+
+  <g transform="translate(1130 70)">
+    <circle cx="178" cy="128" r="106" fill="none" stroke="#6EA8FE" stroke-opacity="0.16" stroke-width="1.5"/>
+    <circle cx="178" cy="128" r="78" fill="none" stroke="#6EA8FE" stroke-opacity="0.12" stroke-width="1"/>
+    <circle cx="178" cy="128" r="48" fill="none" stroke="#D4A017" stroke-opacity="0.12" stroke-width="1"/>
+
+    <path d="M72 128H284 M178 22V234 M99 66L257 190 M257 66L99 190" stroke="#8AB8FF" stroke-opacity="0.12" stroke-width="1"/>
+
+    <g stroke="#73A7F8" stroke-opacity="0.42" stroke-width="1.5">
+      <path d="M96 95L145 62L192 83L236 54"/>
+      <path d="M96 95L121 147L176 166L232 145"/>
+      <path d="M145 62L176 166"/>
+      <path d="M192 83L232 145"/>
+      <path d="M121 147L192 83"/>
+    </g>
+
+    <g filter="url(#softGlow)">
+      <circle cx="96" cy="95" r="5" fill="#60A5FA"/>
+      <circle cx="145" cy="62" r="5" fill="#60A5FA"/>
+      <circle cx="192" cy="83" r="5" fill="#F4C95D"/>
+      <circle cx="236" cy="54" r="4" fill="#60A5FA"/>
+      <circle cx="121" cy="147" r="5" fill="#60A5FA"/>
+      <circle cx="176" cy="166" r="5" fill="#F4C95D"/>
+      <circle cx="232" cy="145" r="5" fill="#60A5FA"/>
+    </g>
+
+    <rect x="126" y="104" width="104" height="48" rx="14" fill="#091526" fill-opacity="0.88" stroke="#FFFFFF" stroke-opacity="0.1"/>
+    <text x="178" y="126" text-anchor="middle" fill="#F8FAFC" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="13" font-weight="800" letter-spacing="1.5">BUILD</text>
+    <text x="178" y="143" text-anchor="middle" fill="#8AB8FF" font-family="Inter, ui-sans-serif, system-ui, sans-serif" font-size="10" font-weight="600" letter-spacing="1.2">LEARN • SHIP • ITERATE</text>
+  </g>
+
+  <path d="M0 394H1600" stroke="#FFFFFF" stroke-opacity="0.05"/>
+</svg>
