@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://i.pinimg.com/736x/ec/67/ef/ec67ef54a3a94349642dca28a6cb0eca.jpg" width="100%" alt="Francis Pwavwe profile banner" />
+<img src="./assets/github-banner.svg" width="100%" alt="Francis Pwavwe — Product Builder, AI Systems, Civic & Cultural Technology" />
 
 # Hey, I'm Francis Pwavwe 👋🏾
 
